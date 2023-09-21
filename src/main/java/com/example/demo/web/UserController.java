@@ -1,6 +1,5 @@
 package com.example.demo.web;
 
-import java.util.Collection;
 import java.util.List;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
